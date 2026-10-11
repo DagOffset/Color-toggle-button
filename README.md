@@ -13,3 +13,4 @@ How to run
 Open index.html in your browser, or try the live demo below.
 
 Live demo
+https://dagoffset.github.io/Color-toggle-button/
